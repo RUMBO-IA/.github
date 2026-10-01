@@ -1,25 +1,30 @@
-# RUMBO IA
+# RUMBO IA — Operational AI Systems
 
-**Human-controlled AI CRM and automation for small businesses in Latin America.**
+RUMBO IA builds supervised, bounded and verifiable AI systems for real operational workflows.
 
-RUMBO IA builds supervised commercial workflows that connect CRM, customer conversations, lead management, approved business knowledge and bounded automation while keeping sensitive decisions under human control.
+Our public work is organized around three pillars:
 
-## Current focus
+- **Revenue Recovery** — controlled workflows for lead follow-up, proposals and commercial recovery.
+- **Agent Reliability** — state, continuity, execution controls, readback and evidence for AI agents.
+- **Guardian** — defensive assurance, policy boundaries and auditability for higher-risk workflows.
 
-- controlled pilots for small businesses in Argentina and Latin America;
-- opportunity management and revenue recovery workflows;
-- human-controlled automation across commercial operations;
-- reliability, privacy and evidence controls for agentic systems.
+## How we build
+
+We separate capability from authority and execution from verified outcome.
+
+`Capability != Authorization != Execution != Verified Outcome`
+
+Human control, least privilege, explicit boundaries and durable evidence are part of the architecture rather than after-the-fact documentation.
 
 ## Public surfaces
 
-- [Website](https://rumbo.verso.fans)
+- [RUMBO IA website](https://rumbo.verso.fans)
 - [RUMBO IA public repository](https://github.com/RUMBO-IA/Rumbo)
 - [RUMBO Guardian](https://github.com/RUMBO-IA/rumbo-guardian)
-- [@RumboAGI on X](https://x.com/RumboAGI)
+- [RUMBO IA on X](https://x.com/RumboAGI)
 
 ## Evidence boundary
 
-Public demos, pilots, production state and measured results are separate evidence states. RUMBO IA does not claim customer scale, guaranteed ROI, third-party endorsement or production deployment unless the referenced evidence supports that exact claim.
+Demo, pilot, candidate, merged code and production are different evidence states. RUMBO IA does not claim customer scale, guaranteed ROI, third-party endorsement, production deployment or verified outcomes unless the referenced evidence proves that exact state.
 
 **Human control before consequential action. Evidence before claims.**
