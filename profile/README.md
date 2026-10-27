@@ -21,7 +21,7 @@ Human control, least privilege, explicit boundaries and durable evidence are par
 - [RUMBO IA website](https://rumbo.verso.fans)
 - [RUMBO IA public repository](https://github.com/RUMBO-IA/Rumbo)
 - [RUMBO Guardian](https://github.com/RUMBO-IA/rumbo-guardian)
-- [RUMBO IA on X](https://x.com/RumboIAx)
+- [RUMBO IA on X](https://x.com/RumboAGI)
 
 ## Evidence boundary
 
